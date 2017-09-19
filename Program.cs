@@ -8,7 +8,7 @@ namespace HvHConDirect
 {
   static class Program
   {
-		// NEU
+    // Endlich eine Änderung
     /// <summary>
     /// The main entry point for the application.
     /// </summary>
